@@ -1,4 +1,4 @@
-### Gestión de Trabajadores
+# Gestión de Trabajadores
 
 Este proyecto fue desarrollado como actividad final del curso de Programación desde Cero, dictado por Codo a Codo, la división encargada de la capacitación tecnológica dentro de la Agencia de Aprendizaje a lo largo de la vida, iniciativa del gobierno de Buenos Aires para capacitar a la población gratuitamente. 
 
