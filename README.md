@@ -47,6 +47,7 @@ Python 3.x
 # Instalación
 Clona el repositorio:
 git clone https://github.com/germancaradec/Codo-a-Codo-Desde-cero-Python.git
+
 cd Codo-a-Codo-Desde-cero-Python
 
 # Ejecute la aplicación:
